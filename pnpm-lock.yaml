@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@rife/config': 0.0.2-beta.1
+
+dependencies:
+  '@rife/config': 0.0.2-beta.1_tslib@2.4.0
+
+packages:
+
+  /@rife/config/0.0.2-beta.1_tslib@2.4.0:
+    resolution: {integrity: sha512-1hkVLSuZmLFl365tTSVP7iNNCl54BP2XXuZY/HDDRjp6wmkj+kuniRo/gQaC7AtV2g79RPLDLvRkOUkA3MrdCQ==}
+    peerDependencies:
+      tslib: '2'
+    dependencies:
+      tslib: 2.4.0
+    dev: false
+
+  /tslib/2.4.0:
+    resolution: {integrity: sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==}
+    dev: false
